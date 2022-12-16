@@ -1,6 +1,7 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
+  "homepage":  "https://github.com/Answer-0885/formReact.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
